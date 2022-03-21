@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aruna78
 - 👀 I’m interested in Data Mining, Machine Learning, Data Science
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on the projects of 
+- 💞️ I’m looking to collaborate on the projects of my area of interest
 - 📫 How to reach me arubitsgoa@gmail.com
 
 <!---
